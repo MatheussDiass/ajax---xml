@@ -1,6 +1,6 @@
 
 // Endereço do XML
-const xmlURL = 'sitemap-news.xml';
+const xmlURL = 'sitemap.xml';
 
 // Função para buscar o XML
 function buscarXML() {
